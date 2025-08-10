@@ -1,10 +1,6 @@
 # 45 Days Frontend Interview Preparation Kit
 
 <strong >This repo contains a complete guidance for Frontend Interview Preparation.</strong>
-<div align="center">
-  <img src="./assets/banner-img.jpg" width="100%"/>
-</div>
-
 
 ### Week 1 : Brushing up HTML, CSS, JS!
 
